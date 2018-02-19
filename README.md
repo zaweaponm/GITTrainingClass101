@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # GITTrainingClass101
-Japanese word of cat is Ne-ko
+test2 about using huawei Phone which show that Dog is human best friend and Japanese word of cat is Ne-ko.
+
+
+
