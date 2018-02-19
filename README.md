@@ -7,6 +7,7 @@ Nice to meet you. Good bye!
 Nice to meet you. Good bye!  
 Delay Shopee  
 GIT Yo!  
+(._.)
 Fake magic
 
 
