@@ -6,13 +6,19 @@ Nice to meet you. Good bye!
   Hello It's ME
 Nice to meet you. Good bye!  
 Delay Shopee  
+
 GIT Yo!  
 (._.)
+
+
 Fake magic
 
 
 Hello everyone
 
+
+
+Hybrid ไอติม  
 
 
 
@@ -27,4 +33,6 @@ Thank you
 
 Hello IT's ME  
 
+
 This README is manage by GIT!
+
