@@ -1,2 +1,2 @@
 # GITTrainingClass101
-My computer password is ABC123  
+My phone password is ABC123.  
