@@ -16,7 +16,6 @@ Hello everyone
 
 
 Thank you
->>>>>>> f997612b7ea949e189a7e8edce6bdb3087093c24
 
 
 
@@ -25,4 +24,5 @@ Thank you
 
 
 Hello IT's ME  
->>>>>>> 15a570679c04bb5cf37c0d7591fa11979a54a417
+
+This README is manage by GIT!
